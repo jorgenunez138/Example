@@ -1,0 +1,52 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  width: 100%;
+  height: 40px;
+  background-color: #283947;
+  display: flex;
+}
+
+footer{
+  width: 100%;
+  height: 30px;
+  text-align: center;
+  color: #F3E3D1;
+  background-color: #283947;
+  padding-top: 5px;
+}
+
+.primaryWindow{
+  padding: 20px;
+  width: 77%;
+  height: auto;
+  display: inherit;
+  margin-left: 20%;
+  background-color: #0C202D;
+}
+
+.menuitem{
+  width: 20%;
+  height: 550px;
+  display: flex;
+  float: left;
+  background-color: #B9B2A7;
+}
+
+.menuitem a{
+  text-decoration: none;
+  color: #F3E3D1;
+}
+
+#primaryTable{
+  width: 90%;
+  height auto;
+
+}
+
+#primaryTable tr td{
+  padding: 5px;
+}
